@@ -11,9 +11,9 @@ title                    : "Yiqing Wang"
 title_separator          : "-"
 name                     : &name "Yiqing Wang"
 description              : &description "Undergraduate student at Shanghai Jiao Tong University"
-url                      : https://YiqingWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yiqing_wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YiqingWang/YiqingWang.github.io"
+repository               : "YiqingWang-cn/yiqing_wang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
