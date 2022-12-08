@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiqing Wang"
 title_separator          : "-"
 name                     : &name "Yiqing Wang"
-description              : &description "Undergraduate student at Shanghai Jiao Tong University"
+description              : &description "Undergraduate Student at Shanghai Jiao Tong University"
 url                      : https://yiqing_wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YiqingWang-cn/yiqing_wang.github.io"
@@ -85,8 +85,8 @@ author:
   bio              : "Undergraduate Student at Shanghai Jiao Tong University, Interested in Medical Image Processing and Deep Learning"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YiqingWang-cn"
+  github           : "https://github.com/YiqingWang-cn"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
