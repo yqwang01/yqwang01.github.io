@@ -1,5 +1,5 @@
 ---
-title: ". A Brain Age Estimation Network based on QSM using the Segment Transformer"
+title: "A Brain Age Estimation Network based on QSM using the Segment Transformer"
 collection: publications
 permalink: /publication/SegmentTransformer
 excerpt: 'This paper has been accepted by ISMRM 2023. It will be available soon.'
