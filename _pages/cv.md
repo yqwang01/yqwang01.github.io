@@ -13,7 +13,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 您可以从[这里](https://yqwang01.github.io/files/resume_CHN.pdf)下载我的中文简历。
 
-# Education
+## Education
 
 * B.S. in Biomedical Engineering, Shanghai Jiao Tong University, 2019 - 2023 (Expected)
   * GPA: 3.85/4.3
@@ -22,7 +22,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   * Major Coursework: Digital Electronics (99), Microcomputer Principles (96), Biomedical Signals and System (94.5), Biomedical Image Processing (95), Principles of Automatic Control (92)
   * Minor Coursework: Discrete Mathematics (94), Software Engineering (87), Computer Network (85), Operating Systems (80)
 
-# Scholar experience
+## Scholar experience
 
 * **Dec. 2022 – Present**: IMIT @ SJTU directed by Lichi Zhang \
   Intelligent Registration and Parameter Planning for Lower Limb Multi-modal Image
@@ -47,7 +47,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   *  Improved the performance of domain adaptation segmentation based on Cross Domain Transformer
   *  Awarded an outstanding student project
 
-# Awards
+## Awards
 
 * 2022 Scholarship of School of Biomedical Engineering Alumni Association
 * 2022 Merit Student of Shanghai Jiao Tong University
@@ -55,7 +55,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 * 2020 Class A Scholarship of Shanghai Jiao Tong University
 * 2020 Scholarship of School of Biomedical Engineering Alumni Association
   
-# Skills
+## Skills
 
 * **Programming Languages:** Python, C, C++, Matlab
 * **Deep Learning Frameworks:** PyTorch, TensorFlow, Keras
@@ -63,7 +63,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   * TOEFL Total 107, Reading 30, Listening 29, Speaking 22, Writing 26
   * GRE Quantitative 170, Verbal 153, Analysis Writing 3.5
 
-# Publications
+## Publications
 
 **<sup>1</sup>Yiqing Wang**, Yuting Shi, Hongjiang Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. (Accepted)
 
