@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pdf).
+您可以从[这里](https://yqwang01.github.io/files/resume_CHN.pdf)下载我的中文简历。
 
 # Education
 
@@ -31,7 +32,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   Multi-view MAE for 3D medical image representation learning
   * Presented the first multi-view pipeline for self-supervised medical image analysis
   * Achieved a comparable performance to the current state-of-the-art method with less training cost
-  * Submitted to *CVPR 2023*
+  * Submitted to *MICCAI 2023*
 
 * **Feb. 2022 – Jan. 2023**: Advanced MRI Lab @ SJTU directed by Hongjiang Wei \
   Brain Region Segmentation and Age Estimation Using QSM
