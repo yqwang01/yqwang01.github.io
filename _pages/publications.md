@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-# 2023
+## 2023
 
 **<sup>1</sup>Yiqing Wang**, Yuting Shi, Hongjiang Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. (Accepted)
 
-# Papers in Submission
+## Papers in Submission
 
 <sup>1</sup>Mingxing Chen, **<sup>1</sup>Yiqing Wang**, <sup>1</sup>Yuting Shi, Xiaojun Guan, Yuyao Zhang, Hongjiang Wei. Brain age prediction based on QSM using Segmentation Transformer. *NeuroImage*. (Submitted)
 
