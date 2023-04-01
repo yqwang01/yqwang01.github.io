@@ -20,4 +20,5 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 # News
 
-- \[Jan 2023\] One paper *"A Brain Age Estimation Network based on QSM using the Segment Transformer"* is accepted by [ISMRM 2023](https://www.ismrm.org/23m/). It will be available soon.
+- \[Jan 2023\] 
+One paper *"A Brain Age Estimation Network based on QSM using the Segment Transformer"* is accepted by [ISMRM 2023](https://www.ismrm.org/23m/). It will be available soon.
