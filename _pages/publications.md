@@ -9,10 +9,10 @@ author_profile: true
 
 # 2023
 
-**Yiqing Wang**, Yuting Shi, Hongjiang Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. (Accepted)
+**<sup>1</sup>Yiqing Wang**, Yuting Shi, Hongjiang Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. (Accepted)
 
 # Papers in Submission
 
-^1Mingxing Chen, **1Yiqing Wang**, 1Yuting Shi, Xiaojun Guan, Yuyao Zhang, Hongjiang Wei. Brain age prediction based on QSM using Segmentation Transformer. *NeuroImage*. (Submitted)
+<sup>1</sup>Mingxing Chen, **<sup>1</sup>Yiqing Wang**, <sup>1</sup>Yuting Shi, Xiaojun Guan, Yuyao Zhang, Hongjiang Wei. Brain age prediction based on QSM using Segmentation Transformer. *NeuroImage*. (Submitted)
 
-**1Yiqing Wang**, 1Zihan Li, Zihao Wei, Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. *Medical Image Computing and Computer-Assisted Intervention–MICCAI 2023: 26th International Conference*. (Submitted)
+**<sup>1</sup>Yiqing Wang**, <sup>1</sup>Zihan Li, Zihao Wei, Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. *Medical Image Computing and Computer-Assisted Intervention–MICCAI 2023: 26th International Conference*. (Submitted)
