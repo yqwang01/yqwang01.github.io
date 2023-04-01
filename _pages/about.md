@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About 
 
 My name is Yiqing Wang. I'm a fourth-year undergraduate student from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), and will receive a Bachelor's Degree in [Biomedical Engineering](http://en.bme.sjtu.edu.cn/) in June 2023. My research interest is deep-learning-based biomedical data processing, such as organ segmentation, disease diagnosis, domain adaptation, image reconstruction, and image registration. Now I'm applying for a Ph.D. program in Medical Image Analysis & Computer Vision.
 
