@@ -65,9 +65,12 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 # Publications
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**<sup>1</sup>Yiqing Wang**, Yuting Shi, Hongjiang Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. (Accepted)
+
+<sup>1</sup>Mingxing Chen, **<sup>1</sup>Yiqing Wang**, <sup>1</sup>Yuting Shi, Xiaojun Guan, Yuyao Zhang, Hongjiang Wei. Brain age prediction based on QSM using Segmentation Transformer. *NeuroImage*. (Submitted)
+
+**<sup>1</sup>Yiqing Wang**, <sup>1</sup>Zihan Li, Zihao Wei, Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. *Medical Image Computing and Computer-Assisted Intervention–MICCAI 2023: 26th International Conference*. (Submitted)
+
   
 <!-- Talks
 ======
