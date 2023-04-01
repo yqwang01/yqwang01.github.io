@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pdf).
+
 您可以从[这里](https://yqwang01.github.io/files/resume_CHN.pdf)下载我的中文简历。
 
 # Education
