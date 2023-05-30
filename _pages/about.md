@@ -12,7 +12,7 @@ Hi friends， this is Yiqing Wang. I'm a fourth-year undergraduate student at [S
 
 You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pdf).
 
-欢迎访问我的网站，我是王一清，[上海交通大学](https://www.sjtu.edu.cn/)大四在读，预计2023年6月取得[生物医学工程专业](https://bme.sjtu.edu.cn/)学士学位。2023年秋季开始我将在[杜克大学](https://duke.edu/)[生物医学工程系](https://bme.duke.edu/)攻读博士学位。我将加入[Sina Farsiu](https://scholar.google.com.hk/citations?user=mzcr92sAAAAJ)教授领导[视觉与图像处理实验室](https://people.duke.edu/~sf59/)。我的主要研究方向是基于深度学习的生物医学数据处理，例如器官分割、疾病诊断、图像重建，以及图像配准。
+欢迎访问我的网站，我是王一清，[上海交通大学](https://www.sjtu.edu.cn/)大四在读，预计2023年6月取得[生物医学工程专业](https://bme.sjtu.edu.cn/)学士学位。2023年秋季开始我将在[杜克大学](https://duke.edu/)[生物医学工程系](https://bme.duke.edu/)攻读博士学位。我将加入[Sina Farsiu](https://scholar.google.com.hk/citations?user=mzcr92sAAAAJ)教授领导的[视觉与图像处理实验室](https://people.duke.edu/~sf59/)。我的主要研究方向是基于深度学习的生物医学数据处理，例如器官分割、疾病诊断、图像重建，以及图像配准。
 
 你可以在[这里](https://yqwang01.github.io/files/resume_CHN.pdf)下载我的中文简历。
 
