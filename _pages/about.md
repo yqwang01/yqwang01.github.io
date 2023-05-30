@@ -19,8 +19,8 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 # News
 
 - \[May 2023\] 
-    One paper *"SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation"* is early accepted by MICCAI 2023. It will be available soon.
+    One paper *"SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation"* is early accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/default.asp). It will be available soon.
 
-    One paper *"A Brain Age Estimation Network based on QSM using the Segment Transformer"* is accepted by [ISMRM 2023](https://www.ismrm.org/23m/). Now you can find it at [ISMRM Proceedings](https://submissions.mirasmart.com/ISMRM2023/Itinerary/ConferenceMatrix.aspx) by logging in your account and searching the title.
+    One paper *"A Brain Age Estimation Network based on QSM using the Segment Transformer"* is accepted by [ISMRM 2023](https://www.ismrm.org/23m/). Now you can find it at [ISMRM Proceedings](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=5605) by logging in your account and searching the title.
     
     
