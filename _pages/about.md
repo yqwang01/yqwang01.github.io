@@ -18,7 +18,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 # News
 
-- \[May 2023\] \
+- \[May 2023\] 
     
     One paper *"SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation"* is early accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/default.asp). It will be available soon.
 
