@@ -15,25 +15,29 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 ## Education
 
-* B.S. in Biomedical Engineering, Shanghai Jiao Tong University, 2019 - 2023 (Expected)
-  * GPA: 3.85/4.3
-  * Rank: 5/76
-  * Minor in Computer Science and Engineering
+* Shanghai Jiao Tong University (SJTU), Shanghai, China, 2019 - 2023 (Expected)\
+  Bachelor of Engineering, major in Biomedical Engineering, minor in Computer Science and Engineering
+  * GPA: 3.84/4.3
+  * Rank: 6/76
   * Major Coursework: Digital Electronics (99), Microcomputer Principles (96), Biomedical Signals and System (94.5), Biomedical Image Processing (95), Principles of Automatic Control (92)
   * Minor Coursework: Discrete Mathematics (94), Software Engineering (87), Computer Network (85), Operating Systems (80)
 
+* Duke University, Durham, North Carolina, 2023 -\
+  Ph.D. Candidate, Department of Biomedical Engineering, Vision and Image Processing Lab
+
 ## Scholar experience
 
-* **Dec. 2022 – Present**: IMIT @ SJTU directed by Lichi Zhang \
-  Intelligent Registration and Parameter Planning for Lower Limb Multi-modal Image
-  * Construct a 2D-3D registration method for plain X-ray and CT images
-  * Compute the optimal parameters to guide the plate for HTO surgery
+* **Dec. 2022 – Jun. 2023**: IMIT @ SJTU directed by Lichi Zhang \
+  A 2D/3D Registration Method for Full-length Images of Lower Limbs
+  * Constructed the first 2D-3D registration network for X-rays and CT images of full-length lower limbs
+  * Adopted the shifted-window self-attention and the cross-attention mechanism for efficient feature extraction
+  * Proposed SigmoidDiceLoss, which makes the registration of discrete labels continuous and differentiable
 
 * **June. 2022 – Nov. 2022**: CCVL @ JHU directed by Alan Yuille & VLAA @ UCSC directed by Yuyin Zhou & Cihang Xie \
   Multi-view MAE for 3D medical image representation learning
   * Presented the first multi-view pipeline for self-supervised medical image analysis
   * Achieved a comparable performance to the current state-of-the-art method with less training cost
-  * Submitted to *MICCAI 2023*
+  * Accepted by *MICCAI 2023*
 
 * **Feb. 2022 – Jan. 2023**: Advanced MRI Lab @ SJTU directed by Hongjiang Wei \
   Brain Region Segmentation and Age Estimation Using QSM
@@ -49,11 +53,11 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 ## Awards
 
+* 2023 Outstanding Graduate of Shanghai Jiao Tong University
 * 2022 Scholarship of School of Biomedical Engineering Alumni Association
 * 2022 Merit Student of Shanghai Jiao Tong University
 * 2021 Shanghai Municipal Government Scholarship
 * 2020 Class A Scholarship of Shanghai Jiao Tong University
-* 2020 Scholarship of School of Biomedical Engineering Alumni Association
   
 ## Skills
 
@@ -67,9 +71,9 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 **<sup>1</sup>Yiqing Wang**, Yuting Shi, Hongjiang Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. (Accepted)
 
-<sup>1</sup>Mingxing Chen, **<sup>1</sup>Yiqing Wang**, <sup>1</sup>Yuting Shi, Xiaojun Guan, Yuyao Zhang, Hongjiang Wei. Brain age prediction based on QSM using Segmentation Transformer. *NeuroImage*. (Submitted)
+**<sup>1</sup>Yiqing Wang**, <sup>1</sup>Zihan Li, Zihao Wei, Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. *Medical Image Computing and Computer-Assisted Intervention–MICCAI 2023: 26th International Conference*. (Early Accepted)
 
-**<sup>1</sup>Yiqing Wang**, <sup>1</sup>Zihan Li, Zihao Wei, Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. *Medical Image Computing and Computer-Assisted Intervention–MICCAI 2023: 26th International Conference*. (Submitted)
+<sup>1</sup>Mingxing Chen, **<sup>1</sup>Yiqing Wang**, <sup>1</sup>Yuting Shi, Xiaojun Guan, Yuyao Zhang, Hongjiang Wei. Brain age prediction based on QSM using Segmentation Transformer. *NeuroImage*. (Submitted)
 
   
 <!-- Talks
