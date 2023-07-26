@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiqing Wang"
 title_separator          : "-"
 name                     : &name "Yiqing Wang"
-description              : &description "Senior Student at Shanghai Jiao Tong University"
+description              : &description "Ph.D. Candidate at Duke University"
 url                      : https://yqwang01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yqwang01/yqwang01.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yiqing Wang"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Student at Shanghai Jiao Tong University, Interested in Medical Image Processing and Deep Learning"
-  location         : "Shanghai, China"
+  bio              : "Ph.D. Candidate at Duke University"
+  location         : "Durham, NC, US"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/business-manager-api/bzmEnterpriseAccessCookie/in/yiqing-wang-duke
   orcid            : 
   pinterest        :
   soundcloud       :
