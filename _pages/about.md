@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi friends， this is Yiqing Wang. I'm going to be a Ph.D. candidate of [Department of Biomedical Engineering](https://bme.duke.edu/) at [Duke University](https://duke.edu/) since fall 2023. I will join in [Vision and Image Processing Lab](https://people.duke.edu/~sf59/) directed by Professor [Sina Farsiu](https://scholar.google.com.hk/citations?user=mzcr92sAAAAJ). My research interest is deep-learning-based biomedical data processing, such as organ segmentation, disease diagnosis, image reconstruction, and image registration. I received my Bachelor's Degree in [Biomedical Engineering](http://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2023. 
+Hi friends, this is Yiqing Wang. I'm going to be a Ph.D. candidate of [Department of Biomedical Engineering](https://bme.duke.edu/) at [Duke University](https://duke.edu/) since fall 2023. I will join in [Vision and Image Processing Lab](https://people.duke.edu/~sf59/) directed by Professor [Sina Farsiu](https://scholar.google.com.hk/citations?user=mzcr92sAAAAJ). My research interest is deep-learning-based biomedical data processing, such as organ segmentation, disease diagnosis, image reconstruction, and image registration. I received my Bachelor's Degree in [Biomedical Engineering](http://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2023. 
 
 You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pdf).
 
