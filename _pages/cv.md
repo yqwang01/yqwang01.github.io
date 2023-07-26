@@ -20,7 +20,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 * **Shanghai Jiao Tong University (SJTU)**, Shanghai, China, 2019 - 2023 (Expected)\
   Bachelor of Engineering, major in Biomedical Engineering, minor in Computer Science and Engineering
-  * GPA: 3.84/4.3 (Top 10%). See more on my [final transcript](https://yqwang01.github.io/files/Final_transcript.jpg)
+  * GPA: 3.84/4.3 (Top 10%). See more on my [final transcript](https://yqwang01.github.io/files/Final_Transcript.jpg)
   * Major Coursework: Digital Electronics (99), Microcomputer Principles (96), Biomedical Signals and System (94.5), Biomedical Image Processing (95), Principles of Automatic Control (92)
   * Minor Coursework: Discrete Mathematics (94), Software Engineering (87), Computer Network (85), Operating Systems (80)
 
