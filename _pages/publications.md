@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2023
 
-**<sup>1</sup>Yiqing Wang**, <sup>1</sup>Zihan Li, <sup>1</sup>Zihao Wei, <sup>1</sup>Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. *Medical Image Computing and Computer-Assisted Intervention–MICCAI 2023: 26th International Conference*. (Early Accepted)
+**<sup>1</sup>Yiqing Wang**, <sup>1</sup>Zihan Li, <sup>1</sup>Zihao Wei, <sup>1</sup>Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. *Medical Image Computing and Computer-Assisted Intervention–MICCAI 2023: 26th International Conference*. (Early Accepted) [Paper](https://arxiv.org/abs/2307.12591) [Code](https://github.com/UCSC-VLAA/SwinMM/)
 
 **<sup>1</sup>Yiqing Wang**, Yuting Shi, Hongjiang Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. (Accepted) [Link](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=5605)
 
