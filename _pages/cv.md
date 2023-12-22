@@ -19,7 +19,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   Ph.D. Candidate, Vision and Image Processing Lab, Department of Biomedical Engineering
   * GPA: 4.0/4.0
 
-* **Shanghai Jiao Tong University (SJTU)**, Shanghai, China, 2019 - 2023 (Expected)\
+* **Shanghai Jiao Tong University (SJTU)**, Shanghai, China, 2019 - 2023\
   Bachelor of Engineering, major in Biomedical Engineering, minor in Computer Science and Engineering
   * GPA: 3.84/4.3 (Top 10%)
   * See more on my [final transcript](https://yqwang01.github.io/files/Final_Transcript.jpg)
