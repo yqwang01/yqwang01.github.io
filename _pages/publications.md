@@ -9,12 +9,10 @@ author_profile: true
 
 ## 2023
 
-**<sup>1</sup>Yiqing Wang**, <sup>1</sup>Zihan Li, <sup>1</sup>Zihao Wei, <sup>1</sup>Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. *Medical Image Computing and Computer-Assisted Intervention–MICCAI 2023: 26th International Conference*. (Early Accepted) [Paper](https://arxiv.org/abs/2307.12591) [Code](https://github.com/UCSC-VLAA/SwinMM/)
+<sup>1</sup>Chen, M., **<sup>1</sup>Wang, Y.**, <sup>1</sup>Shi, Y., Feng, J., Feng, R., Guan, X., ... & Wei, H. Brain Age Prediction Based on Quantitative Susceptibility Mapping Using the Segmentation Transformer. *IEEE Journal of Biomedical and Health Informatics*. [Paper](https://ieeexplore.ieee.org/abstract/document/10354301) [Code](https://github.com/AMRI-Lab/STAN)
 
-**<sup>1</sup>Yiqing Wang**, Yuting Shi, Hongjiang Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. (Accepted) [Link](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=5605)
+**<sup>1</sup>Wang, Y.**, <sup>1</sup>Li, Z., <sup>1</sup>Mei, J., <sup>1</sup>Wei, Z., Liu, L., Wang, C., ... & Zhou, Y. SwinMM: Masked Multi-view with Swin Transformers for 3d Medical Image Segmentation. *2023 International Conference on Medical Image Computing and Computer-Assisted Intervention.* (pp. 486-496). Cham: Springer Nature Switzerland. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_47) [Code](https://github.com/UCSC-VLAA/SwinMM/)
 
+**<sup>1</sup>Wang, Y.**, Shi, Y., Wei, H. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. [Link](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=5605)
 
-## Papers in Submission
-
-<sup>1</sup>Mingxing Chen, **<sup>1</sup>Yiqing Wang**, <sup>1</sup>Yuting Shi, Xiaojun Guan, Yuyao Zhang, Hongjiang Wei. Brain age prediction based on QSM using Segmentation Transformer. *IEEE Journal of Biomedical and Health Informatics (JBHI)*. (Submitted)
 
