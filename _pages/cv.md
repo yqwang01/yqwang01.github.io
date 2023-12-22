@@ -16,13 +16,12 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 ## Education
 
 * **Duke University**, Durham, North Carolina, 2023 -\
-  Ph.D. Candidate, Department of Biomedical Engineering, Vision and Image Processing Lab
+  Ph.D. Candidate, Vision and Image Processing Lab, Department of Biomedical Engineering
+  * GPA: 4.0/4.0
 
 * **Shanghai Jiao Tong University (SJTU)**, Shanghai, China, 2019 - 2023 (Expected)\
   Bachelor of Engineering, major in Biomedical Engineering, minor in Computer Science and Engineering
   * GPA: 3.84/4.3 (Top 10%)
-  * Major Coursework: Digital Electronics (99), Microcomputer Principles (96), Biomedical Signals and System (94.5), Biomedical Image Processing (95), Principles of Automatic Control (92)
-  * Minor Coursework: Discrete Mathematics (94), Software Engineering (87), Computer Network (85), Operating Systems (80)
   * See more on my [final transcript](https://yqwang01.github.io/files/Final_Transcript.jpg)
 
 ## Scholar experience
@@ -37,13 +36,13 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   Multi-view MAE for 3D medical image representation learning
   * Presented the first multi-view pipeline for self-supervised medical image analysis
   * Achieved a comparable performance to the current state-of-the-art method with less training cost
-  * Accepted by *MICCAI 2023*
+  * Published in *MICCAI 2023*
 
 * **Feb. 2022 – Jan. 2023**: Advanced MRI Lab @ SJTU directed by Hongjiang Wei \
   Brain Region Segmentation and Age Estimation Using QSM
   *  Created a novel network to segment several key brain areas on QSM images to improve brain age prediction
   *  Improved brain age estimation compared to previous studies based on T1w MRI
-  *  Accepted by *ISMRM 2023* and submitted to *IEEE Journal of Biomedical and Health Informatics (JBHI)*
+  *  Published in *ISMRM 2023* and *IEEE Journal of Biomedical and Health Informatics (JBHI)*
 
 * **Aug. 2021 – Feb. 2022**: CITI @ SJTU directed by Guoyan Zheng \
   Key Algorithms for 3D Reconstruction from 2D X-rays and Intelligent Diagnosis
@@ -69,12 +68,11 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 ## Publications
 
-**<sup>1</sup>Yiqing Wang**, Yuting Shi, Hongjiang Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. (Accepted)
+<sup>1</sup>Chen, M., **<sup>1</sup>Wang, Y.**, <sup>1</sup>Shi, Y., Feng, J., Feng, R., Guan, X., ... & Wei, H. Brain Age Prediction Based on Quantitative Susceptibility Mapping Using the Segmentation Transformer. *IEEE Journal of Biomedical and Health Informatics*.
 
-**<sup>1</sup>Yiqing Wang**, <sup>1</sup>Zihan Li, <sup>1</sup>Zihao Wei, <sup>1</sup>Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. *Medical Image Computing and Computer-Assisted Intervention–MICCAI 2023: 26th International Conference*. (Early Accepted)
+**<sup>1</sup>Wang, Y.**, <sup>1</sup>Li, Z., <sup>1</sup>Mei, J., <sup>1</sup>Wei, Z., Liu, L., Wang, C., ... & Zhou, Y. SwinMM: Masked Multi-view with Swin Transformers for 3d Medical Image Segmentation. *2023 International Conference on Medical Image Computing and Computer-Assisted Intervention.* (pp. 486-496). Cham: Springer Nature Switzerland.
 
-<sup>1</sup>Mingxing Chen, **<sup>1</sup>Yiqing Wang**, <sup>1</sup>Yuting Shi, Xiaojun Guan, Yuyao Zhang, Hongjiang Wei. Brain age prediction based on QSM using Segmentation Transformer. *IEEE Journal of Biomedical and Health Informatics (JBHI)*. (Submitted)
-
+**<sup>1</sup>Wang, Y.**, Shi, Y., Wei, H. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*.
   
 <!-- Talks
 ======
