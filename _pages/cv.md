@@ -15,7 +15,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 ## Education
 
-* **Duke University**, Durham, North Carolina, 2023 -\
+* **Duke University**, Durham, North Carolina, USA, 2023 -\
   Ph.D. Candidate, Vision and Image Processing Lab, Department of Biomedical Engineering
   * GPA: 4.0/4.0
 
