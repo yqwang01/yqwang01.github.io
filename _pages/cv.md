@@ -38,25 +38,29 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   * Provided a set of multi-label, multi-granularity learning objectives to enhance their visual understanding.
   * Submitted to \textit{ICCV 2025}.
 
-* **Dec. 2022 – Jun. 2023**: IMIT @ SJTU directed by Lichi Zhang \
+* **Dec. 2022 – Jun. 2023**: IMIT @ SJTU directed by Lichi Zhang
+  
   A 2D/3D Registration Method for Full-length Images of Lower Limbs
   * Constructed the first 2D-3D registration network for X-rays and CT images of full-length lower limbs
   * Adopted the shifted-window self-attention and the cross-attention mechanism for efficient feature extraction
   * Proposed SigmoidDiceLoss, which makes the registration of discrete labels continuous and differentiable
 
-* **June. 2022 – Nov. 2022**: CCVL @ JHU directed by Alan Yuille & VLAA @ UCSC directed by Yuyin Zhou & Cihang Xie \
+* **June. 2022 – Nov. 2022**: CCVL @ JHU directed by Alan Yuille & VLAA @ UCSC directed by Yuyin Zhou & Cihang Xie
+  
   Multi-view MAE for 3D medical image representation learning
   * Presented the first multi-view pipeline for self-supervised medical image analysis
   * Achieved a comparable performance to the current state-of-the-art method with less training cost
   * Published in *MICCAI 2023*
 
-* **Feb. 2022 – Jan. 2023**: Advanced MRI Lab @ SJTU directed by Hongjiang Wei \
+* **Feb. 2022 – Jan. 2023**: Advanced MRI Lab @ SJTU directed by Hongjiang Wei
+  
   Brain Region Segmentation and Age Estimation Using QSM
   *  Created a novel network to segment several key brain areas on QSM images to improve brain age prediction
   *  Improved brain age estimation compared to previous studies based on T1w MRI
   *  Published in *ISMRM 2023* and *IEEE Journal of Biomedical and Health Informatics (JBHI)*
 
-* **Aug. 2021 – Feb. 2022**: CITI @ SJTU directed by Guoyan Zheng \
+* **Aug. 2021 – Feb. 2022**: CITI @ SJTU directed by Guoyan Zheng
+  
   Key Algorithms for 3D Reconstruction from 2D X-rays and Intelligent Diagnosis
   *  Evaluated popular deep-learning segmentation networks
   *  Improved the performance of domain adaptation segmentation based on Cross Domain Transformer
