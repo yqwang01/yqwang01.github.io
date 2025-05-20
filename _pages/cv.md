@@ -76,8 +76,8 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 ## Service
 
-**Conference Reviewer**   MICCAI 2025; MICCAI 2024;
-**Journal Reviewer**   Image and Vision;
+* **Conference Reviewer**   MICCAI 2025; MICCAI 2024;
+* **Journal Reviewer**   Image and Vision;
 
 ## Publications
 
