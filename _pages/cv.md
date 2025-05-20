@@ -27,6 +27,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 ## Scholar experience
 
 * **Aug. 2023 -- Present**: VIP Lab @ Duke directed by Sina Farsiu
+  
   An Automated Quantitative Ulcer Analysis (AQUA) algorithm to classify Microbial keratitis (MK) organism types
   * Proposed a contrastive-learning-based method to extract robust features across different data patterns.
   * Developed a triple-stage multi-modality framework to integrate features of different modalities.
