@@ -93,6 +93,8 @@ Z Yang, MA Woodward, LM Niziol, M Pawar, NV Prajna, A Krishnamoorthy, **Y Wang**
 **<sup>1</sup>Y Wang**, <sup>1</sup>Z Li, <sup>1</sup>J Mei, <sup>1</sup>Z Wei, L Liu, C Wang, ... & Y Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3d Medical Image Segmentation. *2023 International Conference on Medical Image Computing and Computer-Assisted Intervention.* (pp. 486-496). Cham: Springer Nature Switzerland.
 
 **<sup>1</sup>Y Wang**, Y Shi, H Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*.
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
