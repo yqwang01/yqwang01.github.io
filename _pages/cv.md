@@ -27,16 +27,23 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 ## Scholar experience
 
 * **Aug. 2023 -- Present**: VIP Lab @ Duke directed by Sina Farsiu
+
+  A knowledge-enhanced multi-modality clinical assessment system for integrative analysis of textual and visual features
+  * Developed a multi-modality clinical assessment framework that leverages structured patient metadata and unstructured clinical notes to support clinical decision-making with large language models (LLMs).
+  * Built an expert-curated medical knowledge base using Retrieval-Augmented Generation (RAG) to enhance domain-specific language comprehension and reasoning.
+  * Integrated latent representations from imaging and textual modalities using Multi-Modal LLMs (MMLLMs) to uncover cross-modality relationships and improve diagnostic performance.
+  * Submitted an abstract to ARVO 2026 and preparing a journal manuscript.
+
+  A multi-granularity language learning approach to boost visual understanding
+  * Proposed a novel contrastive learning framework that enables simultaneous multi-label and cross-granularity alignment.
+  * Provided a set of multi-label, multi-granularity learning objectives to enhance their visual understanding.
+  * Designed a structured multi-granular, multi-label system and construct large-scale multi-granular retinal and X-ray image-text datasets.
+  * Under review of *ICLR 2026* and available at arXiv.
   
   An Automated Quantitative Ulcer Analysis (AQUA) algorithm to classify Microbial keratitis (MK) organism types
   * Proposed a contrastive-learning-based method to extract robust features across different data patterns.
   * Developed a triple-stage multi-modality framework to integrate features of different modalities.
-  * Expected to publish a journal article in 2025
-    
-  A multi-granularity language learning approach to boost visual understanding
-  * Proposed a novel contrastive learning framework that enables simultaneous multi-label and cross-granularity alignment.
-  * Provided a set of multi-label, multi-granularity learning objectives to enhance their visual understanding.
-  * Submitted to \textit{ICCV 2025}.
+  * Expected to publish a journal article in 2026
 
 * **Dec. 2022 – Jun. 2023**: IMIT @ SJTU directed by Lichi Zhang
   
@@ -68,6 +75,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 ## Awards
 
+* 2023 Oral Presentation at MICCAI 2023
 * 2023 Outstanding Graduate of Shanghai Jiao Tong University
 * 2022 Scholarship of School of Biomedical Engineering Alumni Association
 * 2022 Merit Student of Shanghai Jiao Tong University
@@ -82,17 +90,21 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 ## Service
 
 * **Conference Reviewer**   MICCAI 2025; MICCAI 2024;
-* **Journal Reviewer**   Image and Vision Computing;
+* **Journal Reviewer**   Image and Vision Computing; IEEE Journal of Biomedical \& Health Informatics (JBHI);
 
 ## Publications
 
+Z Li$^{1}$, **Y Wang$^{1}$**, S Farsiu, P Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. \textit{arXiv preprint arXiv:2511.15943.} 2025 Nov 20.
+
+J Ong, M Lu, C Thanitcul, M Pawar, JN Hart, E Vogt, S Farsiu, **Y Wang**, P Dmitriev, A Gupta, N Nallasamy \& MA Woodward. Automated Deep Learning Classification of the Quality of Slit-Lamp Photographs of Microbial Keratitis. \textit{Investigative Ophthalmology \& Visual Science}, 66(8), 4436-4436.
+
 Z Yang, MA Woodward, LM Niziol, M Pawar, NV Prajna, A Krishnamoorthy, **Y Wang**, M Lu, S Selvaraj, & S Farsiu. Self-knowledge distillation-empowered directional connectivity transformer for microbial keratitis biomarkers segmentation on slit-lamp photography. *Medical Image Analysis*, 102, 103533.
 
-<sup>1</sup>M Chen, **<sup>1</sup>Y Wang**, <sup>1</sup>Y Shi, J Feng, R Feng, X Guan, ... & H Wei. Brain Age Prediction Based on Quantitative Susceptibility Mapping Using the Segmentation Transformer. *IEEE Journal of Biomedical and Health Informatics*.
+M Chen<sup>1</sup>, **Y Wang<sup>1</sup>**, Y Shi<sup>1</sup>, J Feng, R Feng, X Guan, ... & H Wei. Brain Age Prediction Based on Quantitative Susceptibility Mapping Using the Segmentation Transformer. *IEEE Journal of Biomedical and Health Informatics*.
 
-**<sup>1</sup>Y Wang**, <sup>1</sup>Z Li, <sup>1</sup>J Mei, <sup>1</sup>Z Wei, L Liu, C Wang, ... & Y Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3d Medical Image Segmentation. *2023 International Conference on Medical Image Computing and Computer-Assisted Intervention.* (pp. 486-496). Cham: Springer Nature Switzerland.
+**Y Wang<sup>1</sup>**, Z Li<sup>1</sup>, J Mei<sup>1</sup>, Z Wei<sup>1</sup>, L Liu, C Wang, ... & Y Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3d Medical Image Segmentation. *2023 International Conference on Medical Image Computing and Computer-Assisted Intervention.* (pp. 486-496). Cham: Springer Nature Switzerland.
 
-**<sup>1</sup>Y Wang**, Y Shi, H Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*.
+**Y Wang**, Y Shi, H Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*.
 
 
 <!-- Talks
