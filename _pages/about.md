@@ -18,20 +18,14 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 # News
 
-- \[May 2025\]
+- \[Nov 2025\] One paper *"Boosting Medical Visual Understanding From Multi-Granular Language Learning"* is now available at arXiv. [Paper](https://arxiv.org/abs/2511.15943) [Code](https://github.com/HUANGLIZI/MGLL)
 
-    One paper *"Self-knowledge distillation-empowered directional connectivity transformer for microbial keratitis biomarkers segmentation on slit-lamp photography."* was published by Medical Image Analysis. [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525000805) [Code](https://github.com/Zyun-Y/SDCTrans)
+- \[May 2025\] One paper *"Self-knowledge distillation-empowered directional connectivity transformer for microbial keratitis biomarkers segmentation on slit-lamp photography."* was published by Medical Image Analysis. [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525000805) [Code](https://github.com/Zyun-Y/SDCTrans)
 
-- \[Dec 2023\] 
-    
-    One paper *"Brain Age Prediction Based on Quantitative Susceptibility Mapping Using the Segmentation Transformer"* was published by IEEE Journal of Biomedical and Health Informatics. [Paper](https://ieeexplore.ieee.org/abstract/document/10354301) [Code](https://github.com/AMRI-Lab/STAN)
+- \[Dec 2023\] One paper *"Brain Age Prediction Based on Quantitative Susceptibility Mapping Using the Segmentation Transformer"* was published by IEEE Journal of Biomedical and Health Informatics. [Paper](https://ieeexplore.ieee.org/abstract/document/10354301) [Code](https://github.com/AMRI-Lab/STAN)
 
-- \[Oct 2023\] 
-    
-    One paper *"SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation"* was published by MICCAI 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_47) [Code](https://github.com/UCSC-VLAA/SwinMM/)
+- \[Oct 2023\] One paper *"SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation"* was published by MICCAI 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_47) [Code](https://github.com/UCSC-VLAA/SwinMM/)
 
-- \[May 2023\]
-
-    One paper *"A Brain Age Estimation Network based on QSM using the Segment Transformer"* was accepted by [ISMRM 2023](https://www.ismrm.org/23m/). Now you can read it [here](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=5605) by logging in your account.
+- \[May 2023\] One paper *"A Brain Age Estimation Network based on QSM using the Segment Transformer"* was accepted by [ISMRM 2023](https://www.ismrm.org/23m/). Now you can read it [here](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=5605) by logging in your account.
     
     
