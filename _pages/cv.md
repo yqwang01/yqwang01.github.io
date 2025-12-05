@@ -66,13 +66,6 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   *  Improved brain age estimation compared to previous studies based on T1w MRI
   *  Published in *ISMRM 2023* and *IEEE Journal of Biomedical and Health Informatics (JBHI)*
 
-* **Aug. 2021 – Feb. 2022**: CITI @ SJTU directed by Guoyan Zheng
-  
-  Key Algorithms for 3D Reconstruction from 2D X-rays and Intelligent Diagnosis
-  *  Evaluated popular deep-learning segmentation networks
-  *  Improved the performance of domain adaptation segmentation based on Cross Domain Transformer
-  *  Awarded an outstanding student project
-
 ## Awards
 
 * 2023 Oral Presentation at MICCAI 2023
