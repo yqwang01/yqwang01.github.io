@@ -83,13 +83,13 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 ## Service
 
 * **Conference Reviewer**   MICCAI 2025; MICCAI 2024;
-* **Journal Reviewer**   Image and Vision Computing; IEEE Journal of Biomedical \& Health Informatics (JBHI);
+* **Journal Reviewer**   Image and Vision Computing; IEEE Journal of Biomedical & Health Informatics (JBHI);
 
 ## Publications
 
 Z Li$^{1}$, **Y Wang$^{1}$**, S Farsiu, P Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. *arXiv preprint arXiv:2511.15943.* 2025 Nov 20.
 
-J Ong, M Lu, C Thanitcul, M Pawar, JN Hart, E Vogt, S Farsiu, **Y Wang**, P Dmitriev, A Gupta, N Nallasamy \& MA Woodward. Automated Deep Learning Classification of the Quality of Slit-Lamp Photographs of Microbial Keratitis. *Investigative Ophthalmology & Visual Science*, 66(8), 4436-4436.
+J Ong, M Lu, C Thanitcul, M Pawar, JN Hart, E Vogt, S Farsiu, **Y Wang**, P Dmitriev, A Gupta, N Nallasamy & MA Woodward. Automated Deep Learning Classification of the Quality of Slit-Lamp Photographs of Microbial Keratitis. *Investigative Ophthalmology & Visual Science*, 66(8), 4436-4436.
 
 Z Yang, MA Woodward, LM Niziol, M Pawar, NV Prajna, A Krishnamoorthy, **Y Wang**, M Lu, S Selvaraj, & S Farsiu. Self-knowledge distillation-empowered directional connectivity transformer for microbial keratitis biomarkers segmentation on slit-lamp photography. *Medical Image Analysis*, 102, 103533.
 
