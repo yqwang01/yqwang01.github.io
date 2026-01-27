@@ -18,7 +18,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 # News
 
-- \[Jan 2026\] One paper *"Boosting Medical Visual Understanding From Multi-Granular Language Learning"* was accepted by ICLR 2026. [Paper](https://openreview.net/forum?id=ccjukmExrB) [Code](https://github.com/HUANGLIZI/MGLL)
+- \[Jan 2026\] One paper *"Boosting Medical Visual Understanding From Multi-Granular Language Learning"* was accepted by ICLR 2026. [Paper](https://openreview.net/forum?id=ccjukmExrB) [Code](https://github.com/HUANGLIZI/MGLL) [Code](https://github.com/HUANGLIZI/MGLL)
 
 - \[Jan 2026\] Our work *"Large-Language-Model-Enhanced Multi-Modal Subtype Diagnosis of Microbial Keratitis on Slit-Lamp Photographs and Metadata"* was accepted by ARVO 2026 Annual Meeting.
 
@@ -32,6 +32,6 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 - \[Oct 2023\] One paper *"SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation"* was published by MICCAI 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_47) [Code](https://github.com/UCSC-VLAA/SwinMM/)
 
-- \[May 2023\] One paper *"A Brain Age Estimation Network based on QSM using the Segment Transformer"* was accepted by [ISMRM 2023](https://www.ismrm.org/23m/). Now you can read it [here](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=5605) by logging in your account.
+- \[May 2023\] One paper *"A Brain Age Estimation Network based on QSM using the Segment Transformer"* was accepted by ISMRM 2023. [Paper](https://archive.ismrm.org/2023/2162.html)
     
     
