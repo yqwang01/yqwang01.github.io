@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pdf).
-
-您可以从[这里](https://yqwang01.github.io/files/resume_CHN.pdf)下载我的中文简历。
+You can download my resume [here](https://yqwang01.github.io/files/Resume_Yiqing_En.pdf).
 
 ## Education
 
@@ -24,6 +22,28 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   * GPA: 3.84/4.3 (Top 10%)
   * See more on my [final transcript](https://yqwang01.github.io/files/Final_Transcript.jpg)
 
+## Publications
+
+**2026**
+
+Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. *The Fourteenth International Conference on Learning Representations (ICLR)*. 
+
+**Y Wang**, C He, LM Niziol, M Pawar, M Lu, MA Woodward, & S Farsiu. Large-Language-Model-Enhanced Multi-Modal Subtype Diagnosis of Microbial Keratitis on Slit-Lamp Photographs and Metadata. *Association for Research in Vision and Ophthalmology (ARVO) 2026 Annual Meeting*.
+
+**2025**
+
+Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment. *SPIE Medical Imaging 2026.*
+
+J Ong, M Lu, C Thanitcul, M Pawar, JN Hart, E Vogt, S Farsiu, **Y Wang**, P Dmitriev, A Gupta, N Nallasamy & MA Woodward. Automated Deep Learning Classification of the Quality of Slit-Lamp Photographs of Microbial Keratitis. *Investigative Ophthalmology & Visual Science*, 66(8), 4436-4436.
+
+Z Yang, MA Woodward, LM Niziol, M Pawar, NV Prajna, A Krishnamoorthy, **Y Wang**, M Lu, S Selvaraj, & S Farsiu. Self-knowledge distillation-empowered directional connectivity transformer for microbial keratitis biomarkers segmentation on slit-lamp photography. *Medical Image Analysis*, 102, 103533.
+
+**2023**
+
+M Chen<sup>1</sup>, **Y Wang<sup>1</sup>**, Y Shi<sup>1</sup>, J Feng, R Feng, X Guan, ... & H Wei. Brain Age Prediction Based on Quantitative Susceptibility Mapping Using the Segmentation Transformer. *IEEE Journal of Biomedical and Health Informatics*.
+
+**Y Wang<sup>1</sup>**, Z Li<sup>1</sup>, J Mei<sup>1</sup>, Z Wei<sup>1</sup>, L Liu, C Wang, ... & Y Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3d Medical Image Segmentation. *2023 International Conference on Medical Image Computing and Computer-Assisted Intervention.* (pp. 486-496). Cham: Springer Nature Switzerland.
+
 ## Scholar experience
 
 * **Aug. 2023 -- Present**: VIP Lab @ Duke directed by Sina Farsiu
@@ -32,13 +52,13 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   * Developed a multi-modality clinical assessment framework that leverages structured patient metadata and unstructured clinical notes to support clinical decision-making with large language models (LLMs).
   * Built an expert-curated medical knowledge base using Retrieval-Augmented Generation (RAG) to enhance domain-specific language comprehension and reasoning.
   * Integrated latent representations from imaging and textual modalities using Multi-Modal LLMs (MMLLMs) to uncover cross-modality relationships and improve diagnostic performance.
-  * Submitted an abstract to ARVO 2026 and preparing a journal manuscript.
+  * An abstract accepted by *ARVO 2026* and preparing a journal manuscript.
 
   A multi-granularity language learning approach to boost visual understanding
   * Proposed a novel contrastive learning framework that enables simultaneous multi-label and cross-granularity alignment.
   * Provided a set of multi-label, multi-granularity learning objectives to enhance their visual understanding.
   * Designed a structured multi-granular, multi-label system and construct large-scale multi-granular retinal and X-ray image-text datasets.
-  * Under review of *ICLR 2026* and available at arXiv.
+  * Accepted by *ICLR 2026* and available at arXiv.
   
   An Automated Quantitative Ulcer Analysis (AQUA) algorithm to classify Microbial keratitis (MK) organism types
   * Proposed a contrastive-learning-based method to extract robust features across different data patterns.
@@ -51,6 +71,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
   * Constructed the first 2D-3D registration network for X-rays and CT images of full-length lower limbs
   * Adopted the shifted-window self-attention and the cross-attention mechanism for efficient feature extraction
   * Proposed SigmoidDiceLoss, which makes the registration of discrete labels continuous and differentiable
+  * Submitted an Chinese Patent (under review).
 
 * **June. 2022 – Nov. 2022**: CCVL @ JHU directed by Alan Yuille & VLAA @ UCSC directed by Yuyin Zhou & Cihang Xie
   
@@ -68,36 +89,18 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 ## Awards
 
+* 2025 Oral Presentation at SPIE 2026
 * 2023 Oral Presentation at MICCAI 2023
 * 2023 Outstanding Graduate of Shanghai Jiao Tong University
 * 2022 Scholarship of School of Biomedical Engineering Alumni Association
 * 2022 Merit Student of Shanghai Jiao Tong University
 * 2021 Shanghai Municipal Government Scholarship
 * 2020 Class A Scholarship of Shanghai Jiao Tong University
-  
-## Skills
-
-* **Programming Languages:** Python, C, C++, MatLab
-* **Deep Learning Frameworks:** PyTorch, TensorFlow, Keras
 
 ## Service
 
 * **Conference Reviewer**   MICCAI 2025; MICCAI 2024;
 * **Journal Reviewer**   Image and Vision Computing; IEEE Journal of Biomedical & Health Informatics (JBHI);
-
-## Publications
-
-Z Li$^{1}$, **Y Wang$^{1}$**, S Farsiu, P Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. *arXiv preprint arXiv:2511.15943.* 2025 Nov 20.
-
-J Ong, M Lu, C Thanitcul, M Pawar, JN Hart, E Vogt, S Farsiu, **Y Wang**, P Dmitriev, A Gupta, N Nallasamy & MA Woodward. Automated Deep Learning Classification of the Quality of Slit-Lamp Photographs of Microbial Keratitis. *Investigative Ophthalmology & Visual Science*, 66(8), 4436-4436.
-
-Z Yang, MA Woodward, LM Niziol, M Pawar, NV Prajna, A Krishnamoorthy, **Y Wang**, M Lu, S Selvaraj, & S Farsiu. Self-knowledge distillation-empowered directional connectivity transformer for microbial keratitis biomarkers segmentation on slit-lamp photography. *Medical Image Analysis*, 102, 103533.
-
-M Chen<sup>1</sup>, **Y Wang<sup>1</sup>**, Y Shi<sup>1</sup>, J Feng, R Feng, X Guan, ... & H Wei. Brain Age Prediction Based on Quantitative Susceptibility Mapping Using the Segmentation Transformer. *IEEE Journal of Biomedical and Health Informatics*.
-
-**Y Wang<sup>1</sup>**, Z Li<sup>1</sup>, J Mei<sup>1</sup>, Z Wei<sup>1</sup>, L Liu, C Wang, ... & Y Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3d Medical Image Segmentation. *2023 International Conference on Medical Image Computing and Computer-Assisted Intervention.* (pp. 486-496). Cham: Springer Nature Switzerland.
-
-**Y Wang**, Y Shi, H Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*.
 
 
 <!-- Talks
