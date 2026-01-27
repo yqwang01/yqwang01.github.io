@@ -18,7 +18,7 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 # News
 
-- \[Jan 2026\] One paper *"Boosting Medical Visual Understanding From Multi-Granular Language Learning"* was accepted by ICLR 2026. [Paper](https://openreview.net/forum?id=ccjukmExrB) [Code](https://github.com/HUANGLIZI/MGLL) [Code](https://github.com/HUANGLIZI/MGLL)
+- \[Jan 2026\] One paper *"Boosting Medical Visual Understanding From Multi-Granular Language Learning"* was accepted by ICLR 2026. [Paper](https://openreview.net/forum?id=ccjukmExrB) [Code](https://github.com/HUANGLIZI/MGLL)
 
 - \[Jan 2026\] Our work *"Large-Language-Model-Enhanced Multi-Modal Subtype Diagnosis of Microbial Keratitis on Slit-Lamp Photographs and Metadata"* was accepted by ARVO 2026 Annual Meeting.
 
