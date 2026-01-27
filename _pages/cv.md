@@ -44,6 +44,8 @@ M Chen<sup>1</sup>, **Y Wang<sup>1</sup>**, Y Shi<sup>1</sup>, J Feng, R Feng, X
 
 **Y Wang<sup>1</sup>**, Z Li<sup>1</sup>, J Mei<sup>1</sup>, Z Wei<sup>1</sup>, L Liu, C Wang, ... & Y Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3d Medical Image Segmentation. *2023 International Conference on Medical Image Computing and Computer-Assisted Intervention.* (pp. 486-496). Cham: Springer Nature Switzerland.
 
+**Y Wang**, Y Shi, H Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. 
+
 ## Scholar experience
 
 * **Aug. 2023 -- Present**: VIP Lab @ Duke directed by Sina Farsiu
