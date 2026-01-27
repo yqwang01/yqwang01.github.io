@@ -30,6 +30,8 @@ Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Boosting Medical 
 
 **Y Wang**, C He, LM Niziol, M Pawar, M Lu, MA Woodward, & S Farsiu. Large-Language-Model-Enhanced Multi-Modal Subtype Diagnosis of Microbial Keratitis on Slit-Lamp Photographs and Metadata. *Association for Research in Vision and Ophthalmology (ARVO) 2026 Annual Meeting*.
 
+J Ong, MC Lu, C Thanitcul, M Pawar, JN Hart, EL Vogt, C Deng, S Farsiu, **Y Wang**, P Dmitriev, A Gupta. Deep Learning-Based Classification of Slit-Lamp Photograph Quality in Microbial Keratitis. *Ophthalmology Science.* 2026 Jan 21:101086.
+
 **2025**
 
 Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment. *SPIE Medical Imaging 2026.*
