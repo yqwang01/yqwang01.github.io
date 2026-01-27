@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2026
 
-Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. *The Fourteenth International Conference on Learning Representations (ICLR)*. [Paper](https://openreview.net/forum?id=ccjukmExrB) [Code](https://github.com/HUANGLIZI/MGLL) [Code](https://github.com/HUANGLIZI/MGLL)
+Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. *The Fourteenth International Conference on Learning Representations (ICLR)*. [Paper](https://openreview.net/forum?id=ccjukmExrB) [Code](https://github.com/HUANGLIZI/MGLL)
 
 **Y Wang**, C He, LM Niziol, M Pawar, M Lu, MA Woodward, & S Farsiu. Large-Language-Model-Enhanced Multi-Modal Subtype Diagnosis of Microbial Keratitis on Slit-Lamp Photographs and Metadata. *Association for Research in Vision and Ophthalmology (ARVO) 2026 Annual Meeting*.
 
