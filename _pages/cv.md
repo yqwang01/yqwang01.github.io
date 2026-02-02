@@ -22,6 +22,49 @@ You can download my resume [here](https://yqwang01.github.io/files/Resume_Yiqing
   * GPA: 3.84/4.3 (Top 10%)
   * See more on my [final transcript](https://yqwang01.github.io/files/Final_Transcript.jpg)
 
+## Scholar experience
+
+* **Aug. 2023 -- Present**: VIP Lab @ Duke directed by Sina Farsiu
+
+  A knowledge-enhanced multi-modality clinical assessment system for integrative analysis of textual and visual features
+  * Developed a knowledge-enhanced multimodal clinical assessment framework integrating structured patient metadata and unstructured clinical text to support LLM-based clinical decision-making.
+  * Built an expert-curated medical knowledge base using Retrieval-Augmented Generation (RAG) to improve domain-specific language understanding and reasoning.
+  * Integrated imaging and textual representations via multimodal LLMs to model cross-modality relationships and improve diagnostic performance.
+  * Abstract accepted by ARVO 2026; journal manuscript in preparation.
+
+  A multi-granularity language learning approach to boost visual understanding
+  * Proposed a novel contrastive learning framework enabling joint multi-label and cross-granularity alignment for medical image understanding.
+  * Designed multi-granular learning objectives to improve representation consistency across label hierarchies.
+  * Constructed large-scale multi-granular retinal and X-ray image-text datasets for systematic evaluation.
+  * Accepted by ICLR 2026; available on arXiv.
+  
+  An Automated Quantitative Ulcer Analysis (AQUA) algorithm to classify Microbial keratitis (MK) organism types
+  * Proposed a contrastive-learning-based approach to extract robust representations across heterogeneous clinical data patterns.
+  * Developed a triple-stage multimodal framework to integrate imaging, metadata, and clinical features for organism-type classification.
+  * Journal manuscript in preparation (expected 2026).
+
+* **Dec. 2022 – Jun. 2023**: IMIT @ SJTU directed by Lichi Zhang
+  
+  A 2D/3D Registration Method for Full-length Images of Lower Limbs
+  * Developed a learning-based 2D-3D registration network for full-length lower-limb X-ray and CT images.
+  * Incorporated shifted-window self-attention and cross-attention mechanisms to improve feature extraction efficiency.
+  * Proposed SigmoidDiceLoss to enable differentiable optimization for discrete anatomical labels.
+  * Chinese patent submitted (under review).
+
+* **June. 2022 – Nov. 2022**: CCVL @ JHU directed by Alan Yuille & VLAA @ UCSC directed by Yuyin Zhou & Cihang Xie
+  
+  Multi-view MAE for 3D medical image representation learning
+  * Proposed the first multi-view framework for self-supervised 3D medical image representation learning.
+  * Achieved performance comparable to state-of-the-art methods with substantially reduced training cost.
+  * Published in MICCAI 2023 (Oral Presentation).
+
+* **Feb. 2022 – Jan. 2023**: Advanced MRI Lab @ SJTU directed by Hongjiang Wei
+  
+  Brain Region Segmentation and Age Estimation Using QSM
+  * Developed a novel segmentation network for key brain regions on QSM images to support brain age estimation.
+  * Improved brain age prediction accuracy compared to prior T1-weighted MRI-based approaches.
+  * Published in ISMRM 2023 and IEEE Journal of Biomedical and Health Informatics (JBHI).
+
 ## Publications
 
 **2026**
@@ -47,49 +90,6 @@ M Chen<sup>1</sup>, **Y Wang<sup>1</sup>**, Y Shi<sup>1</sup>, J Feng, R Feng, X
 **Y Wang<sup>1</sup>**, Z Li<sup>1</sup>, J Mei<sup>1</sup>, Z Wei<sup>1</sup>, L Liu, C Wang, ... & Y Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3d Medical Image Segmentation. *2023 International Conference on Medical Image Computing and Computer-Assisted Intervention.* (pp. 486-496). Cham: Springer Nature Switzerland.
 
 **Y Wang**, Y Shi, H Wei. A Brain Age Estimation Network based on QSM using the Segment Transformer. *2023 International Society for Magnetic Resonance in Medicine (ISMRM)*. 
-
-## Scholar experience
-
-* **Aug. 2023 -- Present**: VIP Lab @ Duke directed by Sina Farsiu
-
-  A knowledge-enhanced multi-modality clinical assessment system for integrative analysis of textual and visual features
-  * Developed a multi-modality clinical assessment framework that leverages structured patient metadata and unstructured clinical notes to support clinical decision-making with large language models (LLMs).
-  * Built an expert-curated medical knowledge base using Retrieval-Augmented Generation (RAG) to enhance domain-specific language comprehension and reasoning.
-  * Integrated latent representations from imaging and textual modalities using Multi-Modal LLMs (MMLLMs) to uncover cross-modality relationships and improve diagnostic performance.
-  * An abstract accepted by *ARVO 2026* and preparing a journal manuscript.
-
-  A multi-granularity language learning approach to boost visual understanding
-  * Proposed a novel contrastive learning framework that enables simultaneous multi-label and cross-granularity alignment.
-  * Provided a set of multi-label, multi-granularity learning objectives to enhance their visual understanding.
-  * Designed a structured multi-granular, multi-label system and construct large-scale multi-granular retinal and X-ray image-text datasets.
-  * Accepted by *ICLR 2026* and available at arXiv.
-  
-  An Automated Quantitative Ulcer Analysis (AQUA) algorithm to classify Microbial keratitis (MK) organism types
-  * Proposed a contrastive-learning-based method to extract robust features across different data patterns.
-  * Developed a triple-stage multi-modality framework to integrate features of different modalities.
-  * Expected to publish a journal article in 2026
-
-* **Dec. 2022 – Jun. 2023**: IMIT @ SJTU directed by Lichi Zhang
-  
-  A 2D/3D Registration Method for Full-length Images of Lower Limbs
-  * Constructed the first 2D-3D registration network for X-rays and CT images of full-length lower limbs
-  * Adopted the shifted-window self-attention and the cross-attention mechanism for efficient feature extraction
-  * Proposed SigmoidDiceLoss, which makes the registration of discrete labels continuous and differentiable
-  * Submitted an Chinese Patent (under review).
-
-* **June. 2022 – Nov. 2022**: CCVL @ JHU directed by Alan Yuille & VLAA @ UCSC directed by Yuyin Zhou & Cihang Xie
-  
-  Multi-view MAE for 3D medical image representation learning
-  * Presented the first multi-view pipeline for self-supervised medical image analysis
-  * Achieved a comparable performance to the current state-of-the-art method with less training cost
-  * Published in *MICCAI 2023*
-
-* **Feb. 2022 – Jan. 2023**: Advanced MRI Lab @ SJTU directed by Hongjiang Wei
-  
-  Brain Region Segmentation and Age Estimation Using QSM
-  *  Created a novel network to segment several key brain areas on QSM images to improve brain age prediction
-  *  Improved brain age estimation compared to previous studies based on T1w MRI
-  *  Published in *ISMRM 2023* and *IEEE Journal of Biomedical and Health Informatics (JBHI)*
 
 ## Awards
 
