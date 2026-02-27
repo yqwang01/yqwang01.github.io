@@ -18,13 +18,15 @@ You can download my resume [here](https://yqwang01.github.io/files/resume_ENG.pd
 
 # News
 
+- \[Feb 2026\] One paper *"PRIMA: Pre-training with Risk-integrated Image-Metadata Alignment for Medical Diagnosis via LLM." is availalbe on arXiv. [Paper](https://arxiv.org/abs/2602.23297)
+
+- \[Feb 2026\] One paper *"Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment"* was awarded as Imaging Informatics Best Paper Award Runner Up at SPIE Medical Imaging 2026.
+
 - \[Jan 2026\] One paper *"Boosting Medical Visual Understanding From Multi-Granular Language Learning"* was accepted by ICLR 2026. [Paper](https://openreview.net/forum?id=ccjukmExrB) [Code](https://github.com/HUANGLIZI/MGLL)
 
-- \[Jan 2026\] Our work *"Large-Language-Model-Enhanced Multi-Modal Subtype Diagnosis of Microbial Keratitis on Slit-Lamp Photographs and Metadata"* was accepted by ARVO 2026 Annual Meeting.
+- \[Jan 2026\] Our work *"Large-Language-Model-Enhanced Multi-Modal Subtype Diagnosis of Microbial Keratitis on Slit-Lamp Photographs and Metadata"* was accepted by ARVO 2026 Annual Meeting as Oral Presentation.
 
-- \[Nov 2025\] One paper *"Boosting Medical Visual Understanding From Multi-Granular Language Learning"* is now available at arXiv. [Paper](https://arxiv.org/abs/2511.15943) [Code](https://github.com/HUANGLIZI/MGLL)
-
-- \[Oct 2025\] Our work *"Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment"* was accepted by SPIE Medical Imaging 2026 as Oral Presentation. [Paper](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26)
+- \[Oct 2025\] One paper *"Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment"* was accepted by SPIE Medical Imaging 2026 as Oral Presentation. [Paper](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26)
 
 - \[May 2025\] One paper *"Self-knowledge distillation-empowered directional connectivity transformer for microbial keratitis biomarkers segmentation on slit-lamp photography."* was published by Medical Image Analysis. [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525000805) [Code](https://github.com/Zyun-Y/SDCTrans)
 
