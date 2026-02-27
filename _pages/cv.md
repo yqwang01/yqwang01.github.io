@@ -26,11 +26,11 @@ You can download my resume [here](https://yqwang01.github.io/files/Resume_Yiqing
 
 * **Aug. 2023 -- Present**: VIP Lab @ Duke directed by Sina Farsiu
 
-  A knowledge-enhanced multi-modality clinical assessment system for integrative analysis of textual and visual features
-  * Developed a knowledge-enhanced multimodal clinical assessment framework integrating structured patient metadata and unstructured clinical text to support LLM-based clinical decision-making.
-  * Built an expert-curated medical knowledge base using Retrieval-Augmented Generation (RAG) to improve domain-specific language understanding and reasoning.
-  * Integrated imaging and textual representations via multimodal LLMs to model cross-modality relationships and improve diagnostic performance.
-  * Abstract accepted by ARVO 2026; journal manuscript in preparation.
+  PRIMA: Pre-training with Risk-integrated Image-Metadata Alignment for Medical Diagnosis via LLM
+  * Elevated clinical metadata into structured semantic knowledge by fine-tuning ClinicalBERT on RAG-constructed medical corpora, explicitly incorporating domain priors without reliance on large-scale paired image–text datasets.
+  * Proposed a unified multimodal pre-training framework with four complementary loss functions to coordinate global–local feature alignment across heterogeneous clinical modalities.
+  * Developed an end-to-end pipeline leveraging Qwen3 for multimodal feature synthesis and alignment, achieving state-of-the-art performance and strong cross-dataset generalization on PAD-UFES-20 and AQUA.
+  * Abstract accepted as an Oral Presentation at ARVO 2026; full paper submitted to MICCAI 2026 and available on arXiv; extended journal manuscript in preparation.
 
   A multi-granularity language learning approach to boost visual understanding
   * Proposed a novel contrastive learning framework enabling joint multi-label and cross-granularity alignment for medical image understanding.
@@ -42,14 +42,6 @@ You can download my resume [here](https://yqwang01.github.io/files/Resume_Yiqing
   * Proposed a contrastive-learning-based approach to extract robust representations across heterogeneous clinical data patterns.
   * Developed a triple-stage multimodal framework to integrate imaging, metadata, and clinical features for organism-type classification.
   * Journal manuscript in preparation (expected 2026).
-
-* **Dec. 2022 – Jun. 2023**: IMIT @ SJTU directed by Lichi Zhang
-  
-  A 2D/3D Registration Method for Full-length Images of Lower Limbs
-  * Developed a learning-based 2D-3D registration network for full-length lower-limb X-ray and CT images.
-  * Incorporated shifted-window self-attention and cross-attention mechanisms to improve feature extraction efficiency.
-  * Proposed SigmoidDiceLoss to enable differentiable optimization for discrete anatomical labels.
-  * Chinese patent submitted (under review).
 
 * **June. 2022 – Nov. 2022**: CCVL @ JHU directed by Alan Yuille & VLAA @ UCSC directed by Yuyin Zhou & Cihang Xie
   
@@ -68,6 +60,8 @@ You can download my resume [here](https://yqwang01.github.io/files/Resume_Yiqing
 ## Publications
 
 **2026**
+
+**Y Wang**, C He, MC Lu, M Pawar, L Niziol, M Woodward, S Farsiu. PRIMA: Pre-training with Risk-integrated Image-Metadata Alignment for Medical Diagnosis via LLM. ArXiv:2602.23297.
 
 Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. *The Fourteenth International Conference on Learning Representations (ICLR)*. 
 
@@ -93,7 +87,8 @@ M Chen<sup>1</sup>, **Y Wang<sup>1</sup>**, Y Shi<sup>1</sup>, J Feng, R Feng, X
 
 ## Awards
 
-* 2025 Oral Presentation at SPIE 2026
+* 2026 Oral Presentation at ARVO 2026
+* 2026 Imaging Informatics Best Paper Award Runner Up at SPIE Medical Imaging 2026
 * 2023 Oral Presentation at MICCAI 2023
 * 2023 Outstanding Graduate of Shanghai Jiao Tong University
 * 2022 Scholarship of School of Biomedical Engineering Alumni Association
