@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2026
 
-**Y Wang**, C He, MC Lu, M Pawar, L Niziol, M Woodward, S Farsiu. PRIMA: Pre-training with Risk-integrated Image-Metadata Alignment for Medical Diagnosis via LLM. ArXiv:2602.23297. [Paper](https://arxiv.org/abs/2602.23297)
+**Y Wang**, C He, MC Lu, M Pawar, L Niziol, M Woodward, S Farsiu. PRIMA: Pre-training with Risk-integrated Image-Metadata Alignment for Medical Diagnosis via LLM. _ArXiv:2602.23297._ [Paper](https://arxiv.org/abs/2602.23297)
 
 Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. *The Fourteenth International Conference on Learning Representations (ICLR)*. [Paper](https://openreview.net/forum?id=ccjukmExrB) [Code](https://github.com/HUANGLIZI/MGLL)
 
