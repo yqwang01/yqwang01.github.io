@@ -21,7 +21,10 @@ J Ong, MC Lu, C Thanitcul, M Pawar, JN Hart, EL Vogt, C Deng, S Farsiu, **Y Wang
 
 Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment. *SPIE Medical Imaging 2026.* [Paper](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26)
 
-J Ong, M Lu, C Thanitcul, M Pawar, JN Hart, E Vogt, S Farsiu, **Y Wang**, P Dmitriev, A Gupta, N Nallasamy & MA Woodward. Automated Deep Learning Classification of the Quality of Slit-Lamp Photographs of Microbial Keratitis. *Investigative Ophthalmology & Visual Science*, 66(8), 4436-4436. [Paper](https://iovs.arvojournals.org/article.aspx?articleid=2803542)
+EL Vogt, LM Niziol, Z Yang, **Y Wang**, M Pawar, P Dmitriev, ... & MA Woodward. Association of deep learning imaging algorithm measures of microbial keratitis with vision outcomes. _Cornea_, pp.10-1097. [Paper](https://journals.lww.com/corneajrnl/abstract/9900/association_of_deep_learning_imaging_algorithm.1016.aspx)
+
+J Ong, M Lu, C Thanitcul, M Pawar, JN Hart, E Vogt, S Farsiu, **Y Wang**, ... & MA Woodward. Automated Deep Learning Classification of the Quality of Slit-Lamp Photographs of Microbial Keratitis. _Investigative
+Ophthalmology & Visual Science_, 66(8), 4436-4436. [Paper](https://iovs.arvojournals.org/article.aspx?articleid=2803542)
 
 Z Yang, MA Woodward, LM Niziol, M Pawar, NV Prajna, A Krishnamoorthy, **Y Wang**, M Lu, S Selvaraj, & S Farsiu. Self-knowledge distillation-empowered directional connectivity transformer for microbial keratitis biomarkers segmentation on slit-lamp photography. *Medical Image Analysis*, 102, 103533. [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525000805) [Code](https://github.com/Zyun-Y/SDCTrans)
 
