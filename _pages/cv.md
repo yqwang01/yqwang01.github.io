@@ -16,6 +16,7 @@ You can download my resume [here](https://yqwang01.github.io/files/Resume_Yiqing
 * **Duke University**, Durham, North Carolina, USA, 2023 -\
   Ph.D. Candidate, Vision and Image Processing Lab, Department of Biomedical Engineering
   * GPA: 3.84/4.0
+  * See more on my [transcript](https://yqwang01.github.io/files/OfficialTranscript_DUKEU_20260222.pdf)
 
 * **Shanghai Jiao Tong University (SJTU)**, Shanghai, China, 2019 - 2023\
   Bachelor's Degree of Engineering, major in Biomedical Engineering, minor in Computer Science and Engineering
@@ -73,7 +74,10 @@ J Ong, MC Lu, C Thanitcul, M Pawar, JN Hart, EL Vogt, C Deng, S Farsiu, **Y Wang
 
 Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment. *SPIE Medical Imaging 2026.*
 
-J Ong, M Lu, C Thanitcul, M Pawar, JN Hart, E Vogt, S Farsiu, **Y Wang**, P Dmitriev, A Gupta, N Nallasamy & MA Woodward. Automated Deep Learning Classification of the Quality of Slit-Lamp Photographs of Microbial Keratitis. *Investigative Ophthalmology & Visual Science*, 66(8), 4436-4436.
+EL Vogt, LM Niziol, Z Yang, **Y Wang**, M Pawar, P Dmitriev, ... & MA Woodward. Association of deep learning imaging algorithm measures of microbial keratitis with vision outcomes. _Cornea_, pp.10-1097.
+
+J Ong, M Lu, C Thanitcul, M Pawar, JN Hart, E Vogt, S Farsiu, **Y Wang**, ... & MA Woodward. Automated Deep Learning Classification of the Quality of Slit-Lamp Photographs of Microbial Keratitis. _Investigative
+Ophthalmology & Visual Science_, 66(8), 4436-4436.
 
 Z Yang, MA Woodward, LM Niziol, M Pawar, NV Prajna, A Krishnamoorthy, **Y Wang**, M Lu, S Selvaraj, & S Farsiu. Self-knowledge distillation-empowered directional connectivity transformer for microbial keratitis biomarkers segmentation on slit-lamp photography. *Medical Image Analysis*, 102, 103533.
 
@@ -90,11 +94,11 @@ M Chen<sup>1</sup>, **Y Wang<sup>1</sup>**, Y Shi<sup>1</sup>, J Feng, R Feng, X
 * 2026 Oral Presentation at ARVO 2026
 * 2026 Imaging Informatics Best Paper Award Runner Up at SPIE Medical Imaging 2026
 * 2023 Oral Presentation at MICCAI 2023
-* 2023 Outstanding Graduate of Shanghai Jiao Tong University
+* 2023 Outstanding Graduate of Shanghai Jiao Tong University (Top 5%)
 * 2022 Scholarship of School of Biomedical Engineering Alumni Association
-* 2022 Merit Student of Shanghai Jiao Tong University
-* 2021 Shanghai Municipal Government Scholarship
-* 2020 Class A Scholarship of Shanghai Jiao Tong University
+* 2022 Merit Student of Shanghai Jiao Tong University (Top 3%)
+* 2021 Shanghai Municipal Government Scholarship (Top 1%)
+* 2020 Class A Scholarship of Shanghai Jiao Tong University (Top 1%)
 
 ## Service
 
