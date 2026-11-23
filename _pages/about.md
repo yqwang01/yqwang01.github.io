@@ -16,6 +16,8 @@ You can download my resume [here](https://yqwang01.github.io/files/Resume_Yiqing
 
 # News
 
+- \[Jun 2026\] I start a research internship at [United Imaging Intelligence](https://www.uii-ai.com/) in Boston. Very happy to work with the talented colleagues at UII.
+
 - \[Feb 2026\] One paper *"PRIMA: Pre-training with Risk-integrated Image-Metadata Alignment for Medical Diagnosis via LLM."* is availalbe on arXiv. [Paper](https://arxiv.org/abs/2602.23297)
 
 - \[Feb 2026\] One paper *"Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment"* was awarded as Imaging Informatics Best Paper Award Runner Up at SPIE Medical Imaging 2026.
