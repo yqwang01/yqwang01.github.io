@@ -9,17 +9,23 @@ author_profile: true
 
 ## 2026
 
-**Y Wang**, C He, MC Lu, M Pawar, L Niziol, M Woodward, S Farsiu. PRIMA: Pre-training with Risk-integrated Image-Metadata Alignment for Medical Diagnosis via LLM. _ArXiv:2602.23297._ [Paper](https://arxiv.org/abs/2602.23297)
+**Y Wang**, MA Woodward, Z Yang, NV Prajna, C He, LM Niziol, ... & S Farsiu. Multimodal Knowledge Aggregation for Microbial Keratitis: Geographic Confounding and Shortcut Risk in Pooled Multicountry Data. _ArXiv:2607.03740._ [Paper](https://arxiv.org/abs/2607.03740) [Code](https://github.com/yqwang01/TPMKA)
+
+**Y Wang**, C He, MC Lu, M Pawar, L Niziol, M Woodward, S Farsiu. PRIMA: Pre-training with Risk-integrated Image-Metadata Alignment for Medical Diagnosis via LLM. _ArXiv:2602.23297._ [Paper](https://arxiv.org/abs/2602.23297) [Code](https://github.com/yqwang01/PRIMA)
 
 Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. *The Fourteenth International Conference on Learning Representations (ICLR)*. [Paper](https://openreview.net/forum?id=ccjukmExrB) [Code](https://github.com/HUANGLIZI/MGLL)
 
+B Guo, X Chen, B Mailhe, J Yao, **Y Wang**, A Mukherjee, Y Liu, Z Zhang, H Yu, T Chen, S Sun. Learning Where to Look: Anatomical Grounding and Guided Attention for Cardiac MRI Vision-Language Models. _ArXiv:2609.39899_. [Paper](https://arxiv.org/abs/2609.39899)
+
+C He, D Zhang, F Xiao, X Guo, J Feng, **Y Wang**, S Farsiu. Toward Multimodal Understanding in Low-Level Vision: The Rise of Vision-Language Models. _Preprints 2026, 2026061854._ [Paper](https://www.preprints.org/manuscript/202606.1854) [Code](https://github.com/ChunmingHe/awesome-multimodal-large-language-models-in-low-level-vision).
+
 **Y Wang**, C He, LM Niziol, M Pawar, M Lu, MA Woodward, & S Farsiu. Large-Language-Model-Enhanced Multi-Modal Subtype Diagnosis of Microbial Keratitis on Slit-Lamp Photographs and Metadata. *Association for Research in Vision and Ophthalmology (ARVO) 2026 Annual Meeting*.
+
+Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment. *SPIE Medical Imaging 2026.* [Paper](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26)
 
 J Ong, MC Lu, C Thanitcul, M Pawar, JN Hart, EL Vogt, C Deng, S Farsiu, **Y Wang**, P Dmitriev, A Gupta. Deep Learning-Based Classification of Slit-Lamp Photograph Quality in Microbial Keratitis. *Ophthalmology Science.* 2026 Jan 21:101086. [Paper](https://www.sciencedirect.com/science/article/pii/S2666914526000242)
 
 ## 2025
-
-Z Li<sup>1</sup>, **Y Wang<sup>1</sup>**, S Farsiu, P Kinahan. Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment. *SPIE Medical Imaging 2026.* [Paper](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26)
 
 EL Vogt, LM Niziol, Z Yang, **Y Wang**, M Pawar, P Dmitriev, ... & MA Woodward. Association of deep learning imaging algorithm measures of microbial keratitis with vision outcomes. _Cornea_, pp.10-1097. [Paper](https://journals.lww.com/corneajrnl/abstract/9900/association_of_deep_learning_imaging_algorithm.1016.aspx)
 
